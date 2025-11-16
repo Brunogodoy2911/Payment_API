@@ -10,6 +10,7 @@ pagamento, exibe uma página de pagamento e uma página de confirmação.
 -   **Flask**: Micro-framework web para a criação da API e renderização
     das páginas.
 -   **Flask-SQLAlchemy**: Para interação com o banco de dados SQLite.
+-   **Flask-SocketIO**: Para a criação e utilização do websocket com o Flask
 -   **qrcode**: Biblioteca para a geração dos QR Codes de pagamento.
 -   **HTML/CSS**: Para a criação das páginas de frontend.
 
