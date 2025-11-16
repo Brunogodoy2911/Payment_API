@@ -13,6 +13,7 @@ pagamento, exibe uma página de pagamento e uma página de confirmação.
 -   **Flask-SocketIO**: Para a criação e utilização do websocket com o Flask
 -   **qrcode**: Biblioteca para a geração dos QR Codes de pagamento.
 -   **HTML/CSS**: Para a criação das páginas de frontend.
+-   **Pytest**: Para a criação de testes unitarios.
 
 ------------------------------------------------------------------------
 
