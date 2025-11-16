@@ -19,16 +19,15 @@ pagamento, exibe uma página de pagamento e uma página de confirmação.
 
 ### **Página de Pagamento (Pedido Realizado)**
 
-Exibida quando um pagamento é criado. Mostra o QR Code, o valor da
-compra e o tempo de expiração.
+<img src="https://ik.imagekit.io/brunogodoy/Aguardando" alt="Tela Aguardando pagamento" width="800"/>
 
 ### **Página de Confirmação (Pedido Confirmado)**
 
-Template estático indicando que o pagamento foi confirmado.
+<img src="https://ik.imagekit.io/brunogodoy/Aprovado" alt="Tela Pagamento Aprovado" width="800"/>
 
 ### **Página 404 (Não Encontrado)**
 
-Página personalizada exibida quando um pedido não é encontrado.
+<img src="https://ik.imagekit.io/brunogodoy/404" alt="Tela 404" width="800"/>
 
 ------------------------------------------------------------------------
 
@@ -115,8 +114,8 @@ Simula um webhook de confirmação.
 ### 1. Clone o repositório
 
 ``` bash
-git clone <url-do-seu-repositorio>
-cd <nome-do-repositorio>
+git clone https://github.com/Brunogodoy2911/Payment_API
+cd Payment_API
 ```
 
 ### 2. Crie e ative o ambiente virtual
